@@ -9,3 +9,4 @@ Instrucciones:
 Ejecutar el archivo que se encuentra en: AlgoritmoKaratsuba\Algoritmo_Karatsuba\Algoritmo_Karatsuba\bin\Release\Algoritmo_Karatsuba.exe
 
 
+Autor: Daniel  Bartels Email: sanbartels@gmail.com
